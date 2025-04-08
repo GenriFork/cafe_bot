@@ -1,0 +1,29 @@
+[
+    {
+        "name": "LayerZero",
+        "symbol": "zro",
+        "price": 2.7,
+        "price_change_24h": -10.11532,
+        "volume": 97070111,
+        "market_cap": 300299354,
+        "exchanges": "Binance, MEXC, Gate.io"
+    },
+    {
+        "name": "SPX6900",
+        "symbol": "spx",
+        "price": 0.447279,
+        "price_change_24h": -11.97423,
+        "volume": 28026005,
+        "market_cap": 416067857,
+        "exchanges": "Bybit, Gate.io, Kraken"
+    },
+    {
+        "name": "Neiro on ETH",
+        "symbol": "neiro",
+        "price": 0.02122644,
+        "price_change_24h": -24.71844,
+        "volume": 17289509,
+        "market_cap": 21237245,
+        "exchanges": "Bybit, Gate.io, XT.COM"
+    }
+]

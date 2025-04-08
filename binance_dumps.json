@@ -1,0 +1,32 @@
+[
+    {
+        "symbol": "ZECUSDT",
+        "priceChangePercent": -17.399,
+        "volume": 19355551.30207
+    },
+    {
+        "symbol": "STPTUSDT",
+        "priceChangePercent": -15.037,
+        "volume": 3439884.433811
+    },
+    {
+        "symbol": "LINAUSDT",
+        "priceChangePercent": -53.453,
+        "volume": 10774866.406198
+    },
+    {
+        "symbol": "BURGERUSDT",
+        "priceChangePercent": -68.727,
+        "volume": 6088918.37413
+    },
+    {
+        "symbol": "COMBOUSDT",
+        "priceChangePercent": -59.412,
+        "volume": 5128691.24385
+    },
+    {
+        "symbol": "BERAUSDT",
+        "priceChangePercent": -20.509,
+        "volume": 72281895.429996
+    }
+]
