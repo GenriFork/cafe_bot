@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d450653-9012-47ee-bae6-c403c1684040" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="8d450653-9012-47ee-bae6-c403c1684040" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/kafe_bot/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
