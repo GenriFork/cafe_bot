@@ -64,7 +64,9 @@ def get_all_user_shifts_for_date(target_date: datetime, sheet_name="TelegramSubs
         "https://spreadsheets.google.com/feeds",
         "https://www.googleapis.com/auth/drive"
     ]
-    creds = ServiceAccountCredentials.from_json_keyfile_name("credentials.json", scope)
+    json_creds_str = os.environ.get("GOOGLE_CREDS")
+    json_creds_dict = json.loads(json_creds_str)
+    creds = ServiceAccountCredentials.from_json_keyfile_dict(json_creds_dict, scope)
     client = gspread.authorize(creds)
     sheet = client.open(sheet_name).sheet1
     all_rows = sheet.get_all_values()
